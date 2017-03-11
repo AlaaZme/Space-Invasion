@@ -1,6 +1,8 @@
 # Space Invaison
 Space Invaison is the hotest space shooter EVER!!! its a 3rd person shooter Game.
-
+<br>
+## press image for game video
+(redirection to youtube link)
 [![IMAGE ALT TEXT HERE](https://github.com/AlaaZme/Space-Invasion/blob/master/12248262_10204986177526295_2163209285485209213_o.jpg)](https://www.youtube.com/watch?v=JDepFuMB7n0)
 
 ## clone and download to play

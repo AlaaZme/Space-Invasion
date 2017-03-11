@@ -1,6 +1,9 @@
 # Memory Game
-check your memory. by a simple game
-if your score  < 90  ; = good memory
+Space Invaison 3rd person shooter
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/JDepFuMB7n0/3.jpg?time=1489269388429])(https://www.youtube.com/watch?v=JDepFuMB7n0)
+
+
 ##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
 
  ![project logo (this one for is taken from basecamp - a project management service)]

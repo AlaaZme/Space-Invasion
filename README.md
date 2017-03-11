@@ -1,15 +1,10 @@
-# Memory Game
-Space Invaison 3rd person shooter
+# Space Invaison
+Space Invaison is the hotest space shooter EVER!!! its a 3rd person shooter Game.
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/JDepFuMB7n0/3.jpg?time=1489269388429])(https://www.youtube.com/watch?v=JDepFuMB7n0)
+[![IMAGE ALT TEXT HERE](https://github.com/AlaaZme/Space-Invasion/blob/master/12248262_10204986177526295_2163209285485209213_o.jpg)](https://www.youtube.com/watch?v=JDepFuMB7n0)
 
+## clone and download to play
 
-##  [Click here to Play](https://tranquil-depths-79222.herokuapp.com/)
-
- ![project logo (this one for is taken from basecamp - a project management service)]
-(https://raw.githubusercontent.com/AlaaZme/memGame/master/Screenshot%20(113).png)
-
- 
 ## Tools & Practices
 
 |Category|Status|
@@ -24,12 +19,11 @@ Space Invaison 3rd person shooter
 i claim all the rights@ reserved to AlaaZme Cop.
 
 ##Development & Tools 
-HTML,CSS,JavaScript,jQurey
-Notepad , google chrome
+
+C++
 
 ##Deployment
- heroku
- 
+undeployed
 ### Please visit our wiki for furthur project info: 
 
 ### [User Manual](../../wiki/user-manual) (empty for now)
